@@ -1,0 +1,3 @@
+# Windows launchers — keep CRLF bytes in git/zip
+*.bat -text
+*.cmd -text
