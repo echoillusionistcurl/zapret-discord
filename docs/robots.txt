@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign
+Sitemap: https://github.com/echoillusionistcurl/zapret-discord
